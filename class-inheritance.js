@@ -24,5 +24,5 @@ class Circle extends Shape {
 
 var circle = new Circle(5,6,7);
 var shape = new Shape(5,6,7);
-circle.getArea()
-shape.getArea()
+circle.getArea();
+shape.getArea();
